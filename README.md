@@ -1,29 +1,8 @@
-# vue-test
 
-This template should help get you started developing with Vue 3 in Vite.
+1. input값에 따라 font-size, font-color변경
 
-## Recommended IDE Setup
+<img width="1406" alt="1" src="https://user-images.githubusercontent.com/68357066/213114585-b95eb393-1520-4c86-b8e4-0731d4aed0f0.png">
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img width="1406" alt="2" src="https://user-images.githubusercontent.com/68357066/213114638-ec67f1bc-0742-42f4-92ee-438003fc1ac1.png">
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+2. display column값 변경은 구현하지 못함
